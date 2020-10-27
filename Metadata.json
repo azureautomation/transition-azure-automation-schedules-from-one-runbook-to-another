@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 6117,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/transition-azure-automation-schedules-from-one-runbook-to-another/master/TransitionRunbookSchedule.ps1",
+    "DownloadCount": 515,
+    "Id": "Transition-Azure-f3a38c9a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 491,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "SYNOPSIS This script transitions all Azure Automation Runbook schedules from one Runbook to anotherDESCRIPTIONYou've gone to great lengths to create all the schedules, linked to your current Runbook, and set all the parameters as required for each schedule.Now you've cr",
+    "Title": "Transition Azure Automation schedules from one Runbook to another",
+    "UpdatedDate": "2017-6-14T00:00:00",
+    "Url": "https://github.com/azureautomation/transition-azure-automation-schedules-from-one-runbook-to-another",
+    "UserTags": "Microsoft Azure, Automation, scheduled jobs"
+}
